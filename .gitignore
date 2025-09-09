@@ -1,0 +1,21 @@
+# Archivos de entorno
+*.env
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+
+# Base de datos local de pruebas
+*.sqlite3
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+node_modules/
+dist/
